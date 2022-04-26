@@ -1,0 +1,2916 @@
+C:\Users\vieth\AppData\Local\Programs\Python\Python39\python.exe "C:/Users/vieth/Favorites/school/uni/yearOne/CPS 109/assignments/a1/a1.py"
+Would you like to start the game? (1 = yes, 2 = no): 1
+Please enter the name of the hero: Red
+loading intro...
+
+
+#######################################
+|                                     |
+|      The Adventure of the Hero      |
+|                                     |
+#######################################
+
+
+Year: 1350
+There lived a village in the outskirts of the Astodia Kingdom.
+The village was considered to be mankind's last stand against the Demon Lord.
+You see five years ago, the Demon Lord launched an all out attack upon the Astodia Kingdom.
+However the Astodia Kingdom was unable to fend off against the Demon Lord's assault.
+And with that, the Astodia Kingdom fell into the hands of the Demon Lord.
+The village composes of the remaining survivors that were able to escape during the attack.
+Red was one of the survivors that were able to escape but unfortunately, the same couldn't have been said about their family.
+Red vowed that once they reached level 18, they'd set off to the forest heading to the old ruins of the Astodia Kingdom to find and kill the Demon Lord.
+Red will start training today to become stronger.
+So Red decided to exist their house.
+-----------------------------------------------
+
+Red's stats
+Lvl: 1 | HP: 15/15 | ATK: 7 | DEF: 3 | $: 10 g | EXP: 0/11
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 3
+-----------------------------------------------
+
+Red has decided to venture into the forest to head to the ruin Kingdom of Astodia.
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 15
+Enemy Skeleton's HP: 11
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 5 damage.
+Red receives 2 damage in retaliation!
+
+
+Red's HP: 13
+Enemy Skeleton's HP: 6
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 7 damage.
+Red receives 0 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 2
+EXP gains: 1
+| $: 12 g | EXP: 1/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 13
+Enemy Goblin's HP: 3
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 6 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 4
+EXP gains: 3
+| $: 16 g | EXP: 4/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 11
+Enemy Goblin's HP: 10
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 6 damage.
+Red receives 1 damage in retaliation!
+
+
+Red's HP: 10
+Enemy Goblin's HP: 4
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 7 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 1
+EXP gains: 1
+| $: 17 g | EXP: 5/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 8
+Giant Enemy Spider's HP: 10
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 9 damage.
+Red receives 2 damage in retaliation!
+
+
+Red's HP: 6
+Giant Enemy Spider's HP: 1
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 5 damage.
+Red receives 1 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 2
+EXP gains: 1
+| $: 19 g | EXP: 6/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 5
+Enemy Slime's HP: 2
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 6 damage.
+Red receives 1 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 5
+EXP gains: 2
+| $: 24 g | EXP: 8/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 4
+Enemy Skeleton's HP: 5
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 2
+Red has decided to run away.
+-----------------------------------------------
+
+Red's stats
+Lvl: 1 | HP: 4/15 | ATK: 7 | DEF: 3 | $: 24 g | EXP: 8/11
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 1 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 1 rusty armor (cost 20 gold, +5 defence)
+5) 1 standard armor (cost 40 gold, +15 defence)
+6) 1 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 4
+Red has bought the rusty armor (+5 defence).
+-----------------------------------------------
+
+Red's stats
+Lvl: 1 | HP: 4/15 | ATK: 7 | DEF: 8 | $: 4 g | EXP: 8/11
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 3
+-----------------------------------------------
+
+Red has decided to venture into the forest to head to the ruin Kingdom of Astodia.
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 4
+Enemy Goblin's HP: 6
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 7 damage.
+Red receives 1 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 1
+EXP gains: 2
+| $: 5 g | EXP: 10/11
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 3
+Giant Enemy Spider's HP: 11
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 6 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 3
+Giant Enemy Spider's HP: 5
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 8 damage.
+Red receives 1 damage in retaliation!
+
+
+Wow Red has leveled up to level 2 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 6
+EXP gains: 2
+| $: 11 g | EXP: 0/13
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 25
+Enemy Slime's HP: 10
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 9 damage.
+Red receives 3 damage in retaliation!
+
+
+Red's HP: 22
+Enemy Slime's HP: 1
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 13 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 4
+EXP gains: 3
+| $: 15 g | EXP: 3/13
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 20
+Enemy Slime's HP: 6
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 12 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 7
+EXP gains: 2
+| $: 22 g | EXP: 5/13
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 17
+Enemy Skeleton's HP: 10
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 11 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 4
+EXP gains: 2
+| $: 26 g | EXP: 7/13
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 14
+Giant Enemy Spider's HP: 15
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 12 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 14
+Giant Enemy Spider's HP: 3
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 9 damage.
+Red receives 0 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 7
+EXP gains: 4
+| $: 33 g | EXP: 11/13
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 14
+Giant Enemy Spider's HP: 13
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 13 damage.
+Red receives 4 damage in retaliation!
+
+
+Wow Red has leveled up to level 3 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 6
+EXP gains: 4
+| $: 39 g | EXP: 0/14
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 40
+Enemy Slime's HP: 10
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 19 damage.
+Red receives 6 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 6
+EXP gains: 3
+| $: 45 g | EXP: 3/14
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 34
+Giant Enemy Spider's HP: 23
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 16 damage.
+Red receives 5 damage in retaliation!
+
+
+Red's HP: 29
+Giant Enemy Spider's HP: 7
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 15 damage.
+Red receives 7 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 5
+EXP gains: 2
+| $: 50 g | EXP: 5/14
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 22
+Enemy Goblin's HP: 4
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 15 damage.
+Red receives 7 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 7
+EXP gains: 3
+| $: 57 g | EXP: 8/14
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 15
+Enemy Goblin's HP: 16
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 18 damage.
+Red receives 4 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 5
+EXP gains: 4
+| $: 62 g | EXP: 12/14
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 11
+Giant Enemy Spider's HP: 13
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 15 damage.
+Red receives 1 damage in retaliation!
+
+
+Wow Red has leveled up to level 4 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 7
+EXP gains: 2
+| $: 69 g | EXP: 0/16
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 60
+Giant Enemy Spider's HP: 31
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 26 damage.
+Red receives 10 damage in retaliation!
+
+
+Red's HP: 50
+Giant Enemy Spider's HP: 5
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 24 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 4
+EXP gains: 4
+| $: 73 g | EXP: 4/16
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 47
+Enemy Skeleton's HP: 21
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 24 damage.
+Red receives 9 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 7
+EXP gains: 3
+| $: 80 g | EXP: 7/16
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 38
+Enemy Slime's HP: 13
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 25 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 3
+EXP gains: 4
+| $: 83 g | EXP: 11/16
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 35
+Enemy Slime's HP: 16
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 24 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 9
+EXP gains: 4
+| $: 92 g | EXP: 15/16
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 33
+Enemy Goblin's HP: 31
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 24 damage.
+Red receives 9 damage in retaliation!
+
+
+Red's HP: 24
+Enemy Goblin's HP: 7
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 25 damage.
+Red receives 6 damage in retaliation!
+
+
+Wow Red has leveled up to level 5 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 9
+EXP gains: 6
+| $: 101 g | EXP: 0/17
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 85
+Enemy Skeleton's HP: 41
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 34 damage.
+Red receives 5 damage in retaliation!
+
+
+Red's HP: 80
+Enemy Skeleton's HP: 7
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 35 damage.
+Red receives 4 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 10
+EXP gains: 4
+| $: 111 g | EXP: 4/17
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 76
+Enemy Skeleton's HP: 38
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 37 damage.
+Red receives 15 damage in retaliation!
+
+
+Red's HP: 61
+Enemy Skeleton's HP: 1
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 33 damage.
+Red receives 1 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 6
+EXP gains: 4
+| $: 117 g | EXP: 8/17
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 60
+Enemy Skeleton's HP: 13
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 36 damage.
+Red receives 6 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 7
+EXP gains: 3
+| $: 124 g | EXP: 11/17
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 54
+Enemy Skeleton's HP: 47
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 35 damage.
+Red receives 12 damage in retaliation!
+
+
+Red's HP: 42
+Enemy Skeleton's HP: 12
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 37 damage.
+Red receives 11 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 6
+EXP gains: 4
+| $: 130 g | EXP: 15/17
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 31
+Enemy Slime's HP: 8
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 35 damage.
+Red receives 7 damage in retaliation!
+
+
+Wow Red has leveled up to level 6 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 6
+EXP gains: 4
+| $: 136 g | EXP: 0/19
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 115
+Enemy Goblin's HP: 36
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 45 damage.
+Red receives 21 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 5
+EXP gains: 4
+| $: 141 g | EXP: 4/19
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 94
+Enemy Slime's HP: 29
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 45 damage.
+Red receives 1 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 8
+EXP gains: 4
+| $: 149 g | EXP: 8/19
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 93
+Enemy Skeleton's HP: 74
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 45 damage.
+Red receives 19 damage in retaliation!
+
+
+Red's HP: 74
+Enemy Skeleton's HP: 29
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 49 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 7
+EXP gains: 5
+| $: 156 g | EXP: 13/19
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 71
+Giant Enemy Spider's HP: 55
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 45 damage.
+Red receives 1 damage in retaliation!
+
+
+Red's HP: 70
+Giant Enemy Spider's HP: 10
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 46 damage.
+Red receives 4 damage in retaliation!
+
+
+Wow Red has leveled up to level 7 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 5
+EXP gains: 6
+| $: 161 g | EXP: 0/20
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 150
+Enemy Goblin's HP: 97
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 62 damage.
+Red receives 4 damage in retaliation!
+
+
+Red's HP: 146
+Enemy Goblin's HP: 35
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 63 damage.
+Red receives 8 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 6
+EXP gains: 7
+| $: 167 g | EXP: 7/20
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 138
+Enemy Slime's HP: 71
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 60 damage.
+Red receives 14 damage in retaliation!
+
+
+Red's HP: 124
+Enemy Slime's HP: 11
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 59 damage.
+Red receives 31 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 4
+EXP gains: 6
+| $: 171 g | EXP: 13/20
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 93
+Giant Enemy Spider's HP: 141
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 60 damage.
+Red receives 17 damage in retaliation!
+
+
+Red's HP: 76
+Giant Enemy Spider's HP: 81
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 60 damage.
+Red receives 28 damage in retaliation!
+
+
+Red's HP: 48
+Giant Enemy Spider's HP: 21
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 62 damage.
+Red receives 6 damage in retaliation!
+
+
+Wow Red has leveled up to level 8 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 4
+EXP gains: 9
+| $: 175 g | EXP: 0/22
+
+Would you like to continue exploring? (1 = yes, 2 = no): 2
+-----------------------------------------------
+
+Red's stats
+Lvl: 8 | HP: 190/190 | ATK: 77 | DEF: 22 | $: 175 g | EXP: 0/22
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 1 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 1 standard armor (cost 40 gold, +15 defence)
+6) 1 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 4
+
+It seems that the item is out of stock. So Red decided to leave.
+
+-----------------------------------------------
+
+Red's stats
+Lvl: 8 | HP: 190/190 | ATK: 77 | DEF: 22 | $: 175 g | EXP: 0/22
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 1 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 1 standard armor (cost 40 gold, +15 defence)
+6) 1 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 5
+Red has bought the standard armor (+15 defence).
+-----------------------------------------------
+
+Red's stats
+Lvl: 8 | HP: 190/190 | ATK: 77 | DEF: 37 | $: 135 g | EXP: 0/22
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 1 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 0 standard armor (cost 40 gold, +15 defence)
+6) 1 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 6
+Red has bought the strong armor (+45 defence).
+-----------------------------------------------
+
+Red's stats
+Lvl: 8 | HP: 190/190 | ATK: 77 | DEF: 82 | $: 35 g | EXP: 0/22
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 3
+-----------------------------------------------
+
+Red has decided to venture into the forest to head to the ruin Kingdom of Astodia.
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 190
+Enemy Goblin's HP: 48
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 78 damage.
+Red receives 4 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 12
+EXP gains: 5
+| $: 47 g | EXP: 5/22
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 186
+Enemy Goblin's HP: 64
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 75 damage.
+Red receives 11 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 8
+EXP gains: 10
+| $: 55 g | EXP: 15/22
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 175
+Enemy Skeleton's HP: 15
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 78 damage.
+Red receives 9 damage in retaliation!
+
+
+Wow Red has leveled up to level 9 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 12
+EXP gains: 7
+| $: 67 g | EXP: 0/23
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 235
+Giant Enemy Spider's HP: 242
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 95 damage.
+Red receives 6 damage in retaliation!
+
+
+Red's HP: 229
+Giant Enemy Spider's HP: 147
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 93 damage.
+Red receives 6 damage in retaliation!
+
+
+Red's HP: 223
+Giant Enemy Spider's HP: 54
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 96 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 8
+EXP gains: 10
+| $: 75 g | EXP: 10/23
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 220
+Enemy Skeleton's HP: 59
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 96 damage.
+Red receives 12 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 5
+EXP gains: 7
+| $: 80 g | EXP: 17/23
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 208
+Enemy Slime's HP: 72
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 97 damage.
+Red receives 11 damage in retaliation!
+
+
+Wow Red has leveled up to level 10 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 7
+EXP gains: 9
+| $: 87 g | EXP: 0/25
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 285
+Enemy Slime's HP: 160
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 113 damage.
+Red receives 7 damage in retaliation!
+
+
+Red's HP: 278
+Enemy Slime's HP: 47
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 117 damage.
+Red receives 12 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 6
+EXP gains: 10
+| $: 93 g | EXP: 10/25
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 266
+Giant Enemy Spider's HP: 268
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 116 damage.
+Red receives 8 damage in retaliation!
+
+
+Red's HP: 258
+Giant Enemy Spider's HP: 152
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 117 damage.
+Red receives 8 damage in retaliation!
+
+
+Red's HP: 250
+Giant Enemy Spider's HP: 35
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 114 damage.
+Red receives 11 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 15
+EXP gains: 10
+| $: 108 g | EXP: 20/25
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 239
+Enemy Goblin's HP: 186
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 117 damage.
+Red receives 13 damage in retaliation!
+
+
+Red's HP: 226
+Enemy Goblin's HP: 69
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 116 damage.
+Red receives 7 damage in retaliation!
+
+
+Wow Red has leveled up to level 11 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 7
+EXP gains: 10
+| $: 115 g | EXP: 0/26
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 340
+Giant Enemy Spider's HP: 35
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 135 damage.
+Red receives 6 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 9
+EXP gains: 12
+| $: 124 g | EXP: 12/26
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 334
+Enemy Slime's HP: 212
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 137 damage.
+Red receives 11 damage in retaliation!
+
+
+Red's HP: 323
+Enemy Slime's HP: 75
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 137 damage.
+Red receives 16 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 13
+EXP gains: 8
+| $: 137 g | EXP: 20/26
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 307
+Giant Enemy Spider's HP: 90
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 138 damage.
+Red receives 1 damage in retaliation!
+
+
+Wow Red has leveled up to level 12 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 6
+EXP gains: 8
+| $: 143 g | EXP: 0/28
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 400
+Enemy Goblin's HP: 176
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 163 damage.
+Red receives 11 damage in retaliation!
+
+
+Red's HP: 389
+Enemy Goblin's HP: 13
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 162 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 9
+EXP gains: 13
+| $: 152 g | EXP: 13/28
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 386
+Enemy Goblin's HP: 571
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 161 damage.
+Red receives 6 damage in retaliation!
+
+
+Red's HP: 380
+Enemy Goblin's HP: 410
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 161 damage.
+Red receives 15 damage in retaliation!
+
+
+Red's HP: 365
+Enemy Goblin's HP: 249
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 163 damage.
+Red receives 17 damage in retaliation!
+
+
+Red's HP: 348
+Enemy Goblin's HP: 86
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 162 damage.
+Red receives 13 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 16
+EXP gains: 7
+| $: 168 g | EXP: 20/28
+
+Would you like to continue exploring? (1 = yes, 2 = no): 2
+-----------------------------------------------
+
+Red's stats
+Lvl: 12 | HP: 335/400 | ATK: 161 | DEF: 90 | $: 168 g | EXP: 20/28
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 1 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 0 standard armor (cost 40 gold, +15 defence)
+6) 0 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 3
+Red has bought the big sword (+45 attack).
+-----------------------------------------------
+
+Red's stats
+Lvl: 12 | HP: 335/400 | ATK: 206 | DEF: 90 | $: 68 g | EXP: 20/28
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 1 normal sword (cost 40 gold, +15 attack)
+3) 0 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 0 standard armor (cost 40 gold, +15 defence)
+6) 0 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 2
+Red has bought the normal sword (+15 attack).
+-----------------------------------------------
+
+Red's stats
+Lvl: 12 | HP: 335/400 | ATK: 221 | DEF: 90 | $: 28 g | EXP: 20/28
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 1
+-----------------------------------------------
+
+Red enters the shop and sees that it has the following items on display.
+Swords
+1) 1 small sword (cost 20 gold, +5 attack)
+2) 0 normal sword (cost 40 gold, +15 attack)
+3) 0 big sword (cost 100 gold, +45 attack)
+
+Armors
+4) 0 rusty armor (cost 20 gold, +5 defence)
+5) 0 standard armor (cost 40 gold, +15 defence)
+6) 0 strong armor (cost 100 gold, +45 defence
+7) Exit
+
+Enter a choice (1,2,3,4,5,6,7): 1
+Red has bought the small sword (+5 attack).
+-----------------------------------------------
+
+Red's stats
+Lvl: 12 | HP: 335/400 | ATK: 226 | DEF: 90 | $: 8 g | EXP: 20/28
+
+Red is in the Village. What should they do?
+1) Enter the shop
+2) Sleep at the inn (heals to full hp but -2 gold per night)
+3) Venture into the forest towards the Astodia Kingdom
+
+Enter a choice (1,2,3): 3
+-----------------------------------------------
+
+Red has decided to venture into the forest to head to the ruin Kingdom of Astodia.
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 335
+Enemy Goblin's HP: 337
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 228 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 335
+Enemy Goblin's HP: 109
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 226 damage.
+Red receives 12 damage in retaliation!
+
+
+Wow Red has leveled up to level 13 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 9
+EXP gains: 9
+| $: 17 g | EXP: 0/29
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 465
+Enemy Goblin's HP: 244
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 250 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 17
+EXP gains: 7
+| $: 34 g | EXP: 7/29
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 463
+Enemy Skeleton's HP: 395
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 253 damage.
+Red receives 11 damage in retaliation!
+
+
+Red's HP: 452
+Enemy Skeleton's HP: 142
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 252 damage.
+Red receives 12 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 10
+EXP gains: 11
+| $: 44 g | EXP: 18/29
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 440
+Enemy Slime's HP: 554
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 250 damage.
+Red receives 13 damage in retaliation!
+
+
+Red's HP: 427
+Enemy Slime's HP: 304
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 254 damage.
+Red receives 4 damage in retaliation!
+
+
+Red's HP: 423
+Enemy Slime's HP: 50
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 253 damage.
+Red receives 14 damage in retaliation!
+
+
+Wow Red has leveled up to level 14 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 18
+EXP gains: 14
+| $: 62 g | EXP: 0/31
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 535
+Enemy Skeleton's HP: 609
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 279 damage.
+Red receives 15 damage in retaliation!
+
+
+Red's HP: 520
+Enemy Skeleton's HP: 330
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 282 damage.
+Red receives 14 damage in retaliation!
+
+
+Red's HP: 506
+Enemy Skeleton's HP: 48
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 282 damage.
+Red receives 0 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 16
+EXP gains: 11
+| $: 78 g | EXP: 11/31
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 506
+Enemy Skeleton's HP: 725
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 280 damage.
+Red receives 16 damage in retaliation!
+
+
+Red's HP: 490
+Enemy Skeleton's HP: 445
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 282 damage.
+Red receives 8 damage in retaliation!
+
+
+Red's HP: 482
+Enemy Skeleton's HP: 163
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 279 damage.
+Red receives 5 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 15
+EXP gains: 16
+| $: 93 g | EXP: 27/31
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 477
+Enemy Skeleton's HP: 540
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 282 damage.
+Red receives 9 damage in retaliation!
+
+
+Red's HP: 468
+Enemy Skeleton's HP: 258
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 278 damage.
+Red receives 8 damage in retaliation!
+
+
+Wow Red has leveled up to level 15 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 17
+EXP gains: 9
+| $: 110 g | EXP: 0/32
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 610
+Enemy Skeleton's HP: 1006
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 312 damage.
+Red receives 9 damage in retaliation!
+
+
+Red's HP: 601
+Enemy Skeleton's HP: 694
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 310 damage.
+Red receives 12 damage in retaliation!
+
+
+Red's HP: 589
+Enemy Skeleton's HP: 384
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 311 damage.
+Red receives 1 damage in retaliation!
+
+
+Red's HP: 588
+Enemy Skeleton's HP: 73
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 310 damage.
+Red receives 14 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 16
+EXP gains: 17
+| $: 126 g | EXP: 17/32
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 574
+Enemy Skeleton's HP: 315
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 311 damage.
+Red receives 10 damage in retaliation!
+
+
+Red's HP: 564
+Enemy Skeleton's HP: 4
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 309 damage.
+Red receives 10 damage in retaliation!
+
+
+Wow Red has leveled up to level 16 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 10
+EXP gains: 16
+| $: 136 g | EXP: 0/34
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 690
+Enemy Goblin's HP: 1466
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 340 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 690
+Enemy Goblin's HP: 1126
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 343 damage.
+Red receives 2 damage in retaliation!
+
+
+Red's HP: 688
+Enemy Goblin's HP: 783
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 343 damage.
+Red receives 5 damage in retaliation!
+
+
+Red's HP: 683
+Enemy Goblin's HP: 440
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 344 damage.
+Red receives 4 damage in retaliation!
+
+
+Red's HP: 679
+Enemy Goblin's HP: 96
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 342 damage.
+Red receives 7 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 21
+EXP gains: 13
+| $: 157 g | EXP: 13/34
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Giant Enemy Spider has appeared! #
+
+Red's HP: 672
+Giant Enemy Spider's HP: 858
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 341 damage.
+Red receives 9 damage in retaliation!
+
+
+Red's HP: 663
+Giant Enemy Spider's HP: 517
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 343 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 663
+Giant Enemy Spider's HP: 174
+
+1) Attack the Giant Enemy Spider
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Giant Enemy Spider for 343 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Giant Enemy Spider
+
+Gold Gain: 14
+EXP gains: 17
+| $: 171 g | EXP: 30/34
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Goblin has appeared! #
+
+Red's HP: 661
+Enemy Goblin's HP: 441
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 343 damage.
+Red receives 2 damage in retaliation!
+
+
+Red's HP: 659
+Enemy Goblin's HP: 98
+
+1) Attack the Enemy Goblin
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Goblin for 343 damage.
+Red receives 3 damage in retaliation!
+
+
+Wow Red has leveled up to level 17 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Goblin
+
+Gold Gain: 11
+EXP gains: 12
+| $: 182 g | EXP: 0/35
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 775
+Enemy Skeleton's HP: 1520
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 376 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 775
+Enemy Skeleton's HP: 1144
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 374 damage.
+Red receives 3 damage in retaliation!
+
+
+Red's HP: 772
+Enemy Skeleton's HP: 770
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 377 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 772
+Enemy Skeleton's HP: 393
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 377 damage.
+Red receives 2 damage in retaliation!
+
+
+Red's HP: 770
+Enemy Skeleton's HP: 16
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 375 damage.
+Red receives 5 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 18
+EXP gains: 11
+| $: 200 g | EXP: 11/35
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 765
+Enemy Skeleton's HP: 282
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 374 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 22
+EXP gains: 9
+| $: 222 g | EXP: 20/35
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 762
+Enemy Skeleton's HP: 1202
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 377 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 762
+Enemy Skeleton's HP: 825
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 376 damage.
+Red receives 1 damage in retaliation!
+
+
+Red's HP: 761
+Enemy Skeleton's HP: 449
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 375 damage.
+Red receives 5 damage in retaliation!
+
+
+Red's HP: 756
+Enemy Skeleton's HP: 74
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 376 damage.
+Red receives 3 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 12
+EXP gains: 11
+| $: 234 g | EXP: 31/35
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 753
+Enemy Skeleton's HP: 609
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 374 damage.
+Red receives 4 damage in retaliation!
+
+
+Red's HP: 749
+Enemy Skeleton's HP: 235
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 378 damage.
+Red receives 5 damage in retaliation!
+
+
+Wow Red has leveled up to level 18 (HP will be refreshed to max)
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 15
+EXP gains: 15
+| $: 249 g | EXP: 0/37
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 865
+Enemy Slime's HP: 367
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Slime for 411 damage.
+Red receives 2 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Slime
+
+Gold Gain: 12
+EXP gains: 10
+| $: 261 g | EXP: 10/37
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Skeleton has appeared! #
+
+Red's HP: 863
+Enemy Skeleton's HP: 1291
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 412 damage.
+Red receives 0 damage in retaliation!
+
+
+Red's HP: 863
+Enemy Skeleton's HP: 879
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 411 damage.
+Red receives 4 damage in retaliation!
+
+
+Red's HP: 859
+Enemy Skeleton's HP: 468
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 412 damage.
+Red receives 6 damage in retaliation!
+
+
+Red's HP: 853
+Enemy Skeleton's HP: 56
+
+1) Attack the Enemy Skeleton
+2) Run away
+What should Red do? (1,2): 1
+-----------------------------------------------
+
+Red strikes the Enemy Skeleton for 411 damage.
+Red receives 4 damage in retaliation!
+
+-----------------------------------------------
+
+Red has defeated the Enemy Skeleton
+
+Gold Gain: 19
+EXP gains: 11
+| $: 280 g | EXP: 21/37
+
+Would you like to continue exploring? (1 = yes, 2 = no): 1
+
+# Enemy Slime has appeared! #
+
+Red's HP: 849
+Enemy Slime's HP: 61
+
+1) Attack the Enemy Slime
+2) Run away
+What should Red do? (1,2): 2
+Red has decided to run away.
+
+Red's stats
+Lvl: 18 | HP: 849/865 | ATK: 412 | DEF: 99 | $: 280 g | EXP: 21/37
+
+As Red was exploring through the forest, Red was able to discover the old ruin Kingdom of Astodia that's now being ruled over by the Demon Lord.
+Should Red fight with the Demon Lord now? (YOU CANNOT GO BACK ONCE YOU HAVE SAID YES) (1 = no, 2 = yes): 2
+
+Red carefully enters castle of the ruin Kingdom.
+So far, Red could see no sign of life at all. Perhaps the Demon lord had abandoned this place.
+As soon as that thought crossed their mines, a loud explosion occurred at the end of the hallway.
+As the smoke started to clear, Red could see a shadowy figure begin to emerge
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/'\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/  /           |  /
+ \  \           | `._   `\\  |  //'0  _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+
+
+There stood the Demon Lord. The same one that launch the attack upon this Kingdom all those years ago.
+Neither Red nor the Demon Lord exchanged any words. For they both knew that only one of them was leaving here alive.
+The Demon Lord has appeared
+Demon Lord's stats
+lvl: ??? | HP: 99999 | ATK: 9999 | DEF: ???
+-----------------------------------------------
+
+Red's HP: 849
+Demon Lord's HP: 99999
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 414 damage.
+Red receives 72 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 777
+Demon Lord's HP: 99585
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 414 damage.
+Red receives 32 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 745
+Demon Lord's HP: 99171
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 413 damage.
+Red receives 75 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 670
+Demon Lord's HP: 98758
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 412 damage.
+Red receives 0 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 670
+Demon Lord's HP: 98346
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 410 damage.
+Red receives 24 damage from the Demon Lord in retaliation!
+
+Red starts to bleed a little from the damage taken. But they know that they mustn't give up.
+-----------------------------------------------
+
+Red's HP: 646
+Demon Lord's HP: 97936
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 411 damage.
+Red receives 96 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 550
+Demon Lord's HP: 97525
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 413 damage.
+Red receives 99 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 451
+Demon Lord's HP: 97112
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 412 damage.
+Red receives 47 damage from the Demon Lord in retaliation!
+
+Red is starting to lose their breath.
+-----------------------------------------------
+
+Red's HP: 404
+Demon Lord's HP: 96700
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 413 damage.
+Red receives 53 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 351
+Demon Lord's HP: 96287
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 410 damage.
+Red receives 42 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 309
+Demon Lord's HP: 95877
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 412 damage.
+Red receives 33 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 276
+Demon Lord's HP: 95465
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 414 damage.
+Red receives 92 damage from the Demon Lord in retaliation!
+
+Red has now received some major damage and isn't sure if they can continue with this.
+-----------------------------------------------
+
+Red's HP: 184
+Demon Lord's HP: 95051
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 411 damage.
+Red receives 42 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 142
+Demon Lord's HP: 94640
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 414 damage.
+Red receives 56 damage from the Demon Lord in retaliation!
+
+-----------------------------------------------
+
+Red's HP: 86
+Demon Lord's HP: 94226
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 413 damage.
+Red receives 98 damage from the Demon Lord in retaliation!
+
+
+Red, in their heaving last stand begins to feel tired, almost like there's a mountain on their back.
+
+But then Red starts to remember. They remember all the evil the Demon Lord has done.
+Red remembers all the deaths the Demon Lord has caused.
+Red remembers the vow that they made.
+And with that, Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 93813
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9999 damage.
+Red receives 3 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 83814
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9998 damage.
+Red receives 65 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 73816
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 10000 damage.
+Red receives 31 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 63816
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9998 damage.
+Red receives 99 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 53818
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 10000 damage.
+Red receives 89 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 43818
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 10000 damage.
+Red receives 92 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 33818
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9999 damage.
+Red receives 98 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 23819
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9997 damage.
+Red receives 95 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 13822
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9999 damage.
+Red receives 35 damage from the Demon Lord in retaliation!
+
+but Red refuses to give up.
+-----------------------------------------------
+
+Red's HP: 1
+Demon Lord's HP: 3823
+
+ATTACK) Attack the Demon Lord: (press enter to attack)
+
+Red strikes the Demon Lord for 9998 damage.
+Red receives 36 damage from the Demon Lord in retaliation!
+
+And with that, the Demon Lord was dead.
+                            ,-.
+       ___,---.__          /'|`\          __,---,___
+    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+  ,'        |           ~'\     /`~           |        `.
+ /      ___//              `. ,'          ,  , \___      \
+|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+|   /          /\_  `   .    |    ,      _/'\          \   |
+\  |           \ \`-.___ \   |   / ___,-'/  /           |  /
+ \  \           | `._   `\\  |  //'X  _,' |           /  /
+  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+     ``       /     \    ,='/ \`=.    /     \       ''
+             |__   /|\_,--.,-.--,--._/|\   __|
+             /  `./  \\`\ |  |  | /,//' \,'  \
+            /   /     ||--+--|--+-/-|     \   \
+           |   |     /'\_\_\ | /_/_/`\     |   |
+            \   \__, \_     `~'     _/ .__/   /
+             `-._,-'   `-._______,-'   `-._,-'
+
+
+There lied the corpse of the Demon Lord.
+Red had done it and now they can finally get their well deserved rest.
+End game stats
+Lvl: 18 | HP: 1/865 | ATK: 9999 | DEF: 99 | $: 280 g | EXP: 21/37
+
+Total kills: 67
+
+
+Congrats on beating the game. I hope that this game was able to entertain you for a while.
+Would you like play again? (1 = yes, 2 = no): 2
+
+Process finished with exit code 0
